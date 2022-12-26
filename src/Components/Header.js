@@ -4,9 +4,10 @@ const Header = () => {
     <div>
           
            <h1>
-            <div style={{color:'blue', backgroundColor:"cadetblue"}}>
-              <label>Sri Balaji Bhavan</label> </div>     
-           {/* <img src={Banner} height="200px" alt="Sri Balaji Bhavan" width="100%"/> */}
+            <div >
+              {/* <label style={{color:'blue', backgroundColor:"green"}}>Sri Balaji Bhavan</label>  */}
+              </div>     
+           <img src={Banner} height="200px" alt="Sri Balaji Bhavan" width="100%"/>
            </h1>
   </div>
   )

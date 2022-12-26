@@ -16,7 +16,6 @@ const App = () => {
   return (
   <>
     <Router>
-    <Navbar/>
     <Header/>
     <main>
       <Routes>
